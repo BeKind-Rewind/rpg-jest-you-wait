@@ -1,0 +1,28 @@
+{
+  "name": "rpg-jest-you-wait",
+  "version": "1.0.0",
+  "description": "RPG with players and enemies who can use potions to alter stats",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BeKind-Rewind/rpg-jest-you-wait.git"
+  },
+  "author": "Amanda Perry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BeKind-Rewind/rpg-jest-you-wait/issues"
+  },
+  "homepage": "https://github.com/BeKind-Rewind/rpg-jest-you-wait#readme",
+  "keywords": [
+    "rpg",
+    "RPG",
+    "jest",
+    "JEST"
+  ],
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
